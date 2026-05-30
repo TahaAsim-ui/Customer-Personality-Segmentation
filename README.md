@@ -2,6 +2,8 @@
 
 An end-to-end machine learning project that segments 2,216 retail customers into three actionable groups using K-Means clustering — wrapped in an interactive Streamlit dashboard built for portfolio presentation.
 
+**Live dashboard:** https://customer-personality-segmentation-xdyrd6ktfijmnfht5fvqxu.streamlit.app
+
 ---
 
 ## What This Project Does
